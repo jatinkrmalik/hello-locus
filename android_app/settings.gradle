@@ -1,0 +1,2 @@
+rootProject.name='LAP'
+include ':app'
